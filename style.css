@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+}
+h1 {
+    text-transform: uppercase;
+}
+ol {
+    text-transform: capitalize;
+}
+.container1 {
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+form {
+    text-transform: uppercase;
+}
+.container {
+    font-size: 60px;
+    text-decoration: underline black;
+    color: grey;
+    border-bottom: 2px solid black;
+    border-top: 5px solid black;
+}
+#image1 {
+    width: 100%;
+    height: normal;
+    padding: 0px;
+    margin: 0px;
+}
+button:hover {
+    color: aqua;
+    background-color: black;
+}
+#image {
+    width: 100px;
+    padding: 0px;
+    margin: 0px;
+    text-align: justify;
+    justify-content: left;
+}
